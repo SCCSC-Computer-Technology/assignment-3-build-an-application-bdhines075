@@ -1,0 +1,11 @@
+Brandon, I like there's a highlighted lines around the buttons "Select" and "Exit" on Form1 and also the "Back" and "Exit" buttons on the
+StateDetails form. The comments on both forms are present along with orginazed code. However, there isn't a comment with your name and
+file name was partially met.
+
+Once running the program, the program showed a Microsoft Visual Studio Message saying, "There were build errors. Would you like to continue
+and run the last successful build?" with a "Yes" and "No" option. I clicked the "No" option because of fear of crashing my personal 
+computer.
+
+Overall, your presentation of each of your forms look very promising and inseresting even without testing the assignment. Along with the
+codes as well. However, I do wonder why there is two buttons, "View All States" on each of the forms. Additionally, I notice three errors
+on lines 5, 11, and 16 since it's not connected to the StateDataLib and haven't been found base on the Solution Explorer.
